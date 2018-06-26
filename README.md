@@ -11,4 +11,4 @@
   - ##### Icons only
 - #### Ionic Projects
 
-![alt text](https://raw.githubusercontent.com/alexsan134/Projects-Menu-Py/master/Images/Generate.png)
+![alt text](https://raw.githubusercontent.com/alexsan134/Projects-Menu-Py/master/Images/Generates.png)
