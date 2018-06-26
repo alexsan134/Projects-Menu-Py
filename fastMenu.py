@@ -29,10 +29,10 @@ def menu():
     print "     "+color.YELLOW+"|"+color.END+" 4. Exit FastMenu                            "+color.YELLOW+"|"
     print color.YELLOW+"     -----------------------------------------------"+color.END
     print "\n"
-    option = input(color.YELLOW+"   Selecciona una opcion: "+color.END)
+    option = input(color.YELLOW+"   Select option: "+color.END)
     print "\n"
     if option == 1:
-        name = raw_input("  Angular Proyect Name: ")
+        name = raw_input(color.RED+"  Angular Proyect Name: "+color.END)
         os.system("cd $HOME/Desktop; ng new "+name+"")
         print "\n"
     elif option == 2:
@@ -170,7 +170,12 @@ def menu():
     
 </body>
 </html>'''
-           
+
+    elif option == 3:
+        name = raw_input(color.CYAN+"  Ionic Proyect Name: "+color.END)
+        os.system("ionic start "+name)
+        print "\n"
+
     elif option == 4:
         print "\n"
         return 0
