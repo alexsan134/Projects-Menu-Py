@@ -3,6 +3,8 @@
 
 ![alt text](https://raw.githubusercontent.com/alexsan134/Projects-Menu-Py/master/Images/MainMenu.png)
 
+![alt text](https://raw.githubusercontent.com/alexsan134/Projects-Menu-Py/master/Images/Generates.png)
+
 ### Just select your option and your project name and this script generate all the code for you, make projects like:
 - #### Angular Projects
 - #### HTML Projects
@@ -10,5 +12,3 @@
   - ##### Materialize
   - ##### Icons only
 - #### Ionic Projects
-
-![alt text](https://raw.githubusercontent.com/alexsan134/Projects-Menu-Py/master/Images/Generates.png)
