@@ -3,5 +3,4 @@
 
 ![alt text](https://raw.githubusercontent.com/alexsan134/Projects-Menu-Py/master/Images/MainMenu.png)
 
-## Just select your option and your project name
-## and this script generate all the code for you
+## Just select your option and your project name and this script generate all the code for you
